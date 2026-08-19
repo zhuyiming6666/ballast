@@ -35,9 +35,6 @@ mkdir -p "$MPLCONFIGDIR"
 
 DEPS="networkx numpy scipy matplotlib"
 
-# Anonymous artifact for double-blind evaluation.
-ARTIFACT_URL="https://anonymous.4open.science/r/ballast-30E4/"
-
 # --- does this interpreter actually run (not SIGKILLed) and import deps? ----
 py_runs()  { "$1" -c 'print("ok")'                  >/dev/null 2>&1; }
 py_deps()  { "$1" -c 'import networkx,numpy,scipy,matplotlib' >/dev/null 2>&1; }
@@ -120,7 +117,6 @@ else
 fi
 echo "[setup] OK -> $PY  ($($PY -c 'import networkx,numpy,scipy,matplotlib;print("networkx",networkx.__version__,"numpy",numpy.__version__,"scipy",scipy.__version__,"matplotlib",matplotlib.__version__)'))"
 echo "[setup] jobs: ${JOBS:-all cores}"
-echo "[setup] anonymous artifact: $ARTIFACT_URL"
 
 JOBS_ARG=""
 [ -n "${JOBS:-}" ] && JOBS_ARG="--jobs ${JOBS}"
