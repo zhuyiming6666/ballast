@@ -1,0 +1,5 @@
+scheme,success_ratio,turnover_vs_LN,node_peak_util_mean,node_peak_util_p95,nodes_peak_over80,node_avg_util_mean,active_nodes,draw_assisted_share,seeds,tx_load,cap
+LN,0.4094,1.0,,,,,,,10,50000,4
+Horcrux,0.6407,1.951,,,,,,,10,50000,4
+Ballast-PC,0.4146,1.016,0.2898,0.8973,0.0982,0.2622,2312.0,0.2371,10,50000,4
+Ballast,0.7056,2.289,0.4309,0.9594,0.1926,0.3422,4324.0,0.5021,10,50000,4

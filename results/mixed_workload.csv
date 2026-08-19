@@ -1,0 +1,10 @@
+utilization,phase,benign_draws,benign_refusals,refusal_rate,attack_excess_sat,unpaid_honest_sat
+0.5,before,7249,0,0.0,0,0
+0.5,during,1268,0,0.0,168138400,0
+0.5,after,6026,0,0.0,0,0
+0.9,before,13348,0,0.0,0,0
+0.9,during,2269,0,0.0,168138400,0
+0.9,after,10946,0,0.0,0,0
+0.99,before,14711,471,0.032,0,0
+0.99,during,2439,0,0.0,168138400,0
+0.99,after,12155,315,0.0259,0,0

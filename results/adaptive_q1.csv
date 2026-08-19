@@ -1,0 +1,4 @@
+capacity,variant,success_ratio,success_ratio_ci95,refusals,topups,topup_volume,seeds,tx_load
+4,fixed_phi,0.705566,0.001282,14721.7,0.0,0.0,10,50000
+4,adaptive_immediate,0.640892,0.001126,17955.4,8499.6,336394086.6,10,50000
+4,adaptive_delayed_1000,0.629214,0.001228,18539.3,17106.2,5272703452.4,10,50000

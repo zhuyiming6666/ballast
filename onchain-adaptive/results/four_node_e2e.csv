@@ -1,0 +1,12 @@
+operation,latency_ms,gas
+postBond,1.654,282254
+checkpoint,0.724,87645
+confirm-peer-1,0.595,110022
+claim-peer-1,3.053,166994
+confirm-peer-2,0.444,92922
+claim-peer-2,1.047,149894
+confirm-peer-3,0.498,92922
+claim-peer-3,0.882,149911
+settle-peer-1,0.562,53128
+settle-peer-2,0.396,53128
+settle-peer-3,0.404,48328

@@ -1,0 +1,5 @@
+utilization,honest_outstanding_sat,fork_excess_sat,unpaid_isolated_sat,unpaid_strawman_sat,unpaid_isolated_frac,unpaid_strawman_frac
+0.9,617404205,168138400,0,99537933,0.0,0.1267
+0.95,651704438,168138400,0,133838166,0.0,0.1632
+0.99,679144625,168138400,0,161278353,0.0,0.1903
+1.0,686004672,168138400,0,168138400,0.0,0.1969

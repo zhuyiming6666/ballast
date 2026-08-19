@@ -1,0 +1,17 @@
+tau_e_s,theta_sat,attack_value_sat,bound_sat,honored_draws,attacker_outlay_note,bond_over_E,bond_sat,attacker_net_sat,deterred
+1.0,420346,16813840,20176608,40,each honored draw is an irrevocably forwarded HTLC of size theta,0.5,10088304,6725536,no
+1.0,420346,16813840,20176608,40,each honored draw is an irrevocably forwarded HTLC of size theta,0.9,18158947,0,yes
+1.0,420346,16813840,20176608,40,each honored draw is an irrevocably forwarded HTLC of size theta,1.0,20176608,0,yes
+1.0,420346,16813840,20176608,40,each honored draw is an irrevocably forwarded HTLC of size theta,1.1,22194269,0,yes
+10.0,420346,168138400,171501168,400,each honored draw is an irrevocably forwarded HTLC of size theta,0.5,85750584,82387816,no
+10.0,420346,168138400,171501168,400,each honored draw is an irrevocably forwarded HTLC of size theta,0.9,154351051,13787349,no
+10.0,420346,168138400,171501168,400,each honored draw is an irrevocably forwarded HTLC of size theta,1.0,171501168,0,yes
+10.0,420346,168138400,171501168,400,each honored draw is an irrevocably forwarded HTLC of size theta,1.1,188651285,0,yes
+60.0,420346,1008830400,1012193168,2400,each honored draw is an irrevocably forwarded HTLC of size theta,0.5,506096584,502733816,no
+60.0,420346,1008830400,1012193168,2400,each honored draw is an irrevocably forwarded HTLC of size theta,0.9,910973851,97856549,no
+60.0,420346,1008830400,1012193168,2400,each honored draw is an irrevocably forwarded HTLC of size theta,1.0,1012193168,0,yes
+60.0,420346,1008830400,1012193168,2400,each honored draw is an irrevocably forwarded HTLC of size theta,1.1,1113412485,0,yes
+600.0,420346,10088304000,10091666768,24000,each honored draw is an irrevocably forwarded HTLC of size theta,0.5,5045833384,5042470616,no
+600.0,420346,10088304000,10091666768,24000,each honored draw is an irrevocably forwarded HTLC of size theta,0.9,9082500091,1005803909,no
+600.0,420346,10088304000,10091666768,24000,each honored draw is an irrevocably forwarded HTLC of size theta,1.0,10091666768,0,yes
+600.0,420346,10088304000,10091666768,24000,each honored draw is an irrevocably forwarded HTLC of size theta,1.1,11100833445,0,yes

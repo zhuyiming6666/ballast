@@ -1,0 +1,7 @@
+semantics,n_channels,claim_rate_h,refusal_rate,invariant_ok
+escrow,64,1.0,0.0,True
+escrow,64,10.0,0.0,True
+escrow,64,100.0,0.0,True
+freeze,64,1.0,0.663,True
+freeze,64,10.0,0.9879,True
+freeze,64,100.0,1.0,True

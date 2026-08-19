@@ -1,0 +1,6 @@
+operation,frequency,gas
+postBond,once/operator,282242
+checkpoint,per epoch,87645
+confirm,per draw > theta,110022
+openClaimEscrow,per dispute,166994
+settleClaim,per dispute,48328

@@ -1,0 +1,4 @@
+scenario,description,accepted_draws,refused_draws,exposure_sat,bound_sat
+honest,seal every tau_e,4792,0,0,171501168
+stop_at_fork,no seal after t=0,408,4384,171501168,171501168
+delay_2x,every seal late by 2*(tau_e+delta),408,4384,171501168,171501168

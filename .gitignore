@@ -1,0 +1,5 @@
+onchain-adaptive/artifacts/
+onchain-adaptive/cache/
+*.log
+texput.log
+.DS_Store
